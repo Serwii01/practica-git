@@ -7,5 +7,6 @@
 <body>
     <h1><?php echo "Hola, soy Sergio F"; ?></h1>
     <p>Tercera versión: commit directo con la opción -a.</p>
+    <p>Esta línea se ha añadido desde GitHub.</p>
 </body>
 </html>
