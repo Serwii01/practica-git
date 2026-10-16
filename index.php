@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1><?php echo "Hola, soy Sergio F"; ?></h1>
-    <p>Primera version de mi pagina.</p>
+    <p>Tercera versión: commit directo con la opción -a.</p>
 </body>
 </html>
